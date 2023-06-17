@@ -23,7 +23,7 @@
 </div>
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Software Developer from  Lagos Nigeria with over 4 years experiences in complete software development life Cycle (SDLC) involving requirement gathering , Analysis, Design, Development, Testing and Deploying a Enterprise and Payment Application used by various financial institutions  with core skills in HTML, CSS, JAVASCRIPT, Angular, react, redux, react native, C#, Asp.net,Asp.net Core, SQL, MYSQL Database, Microsoft SQL Server Database, Azure, Docker.
+I am a Full Stack Software Developer from  Lagos Nigeria with over 4 years experiences in complete software development life Cycle (SDLC) involving requirement gathering , Analysis, Design, Development, Testing and Deploying an Enterprise and Payment Application used by various financial institutions to manage there Business Processes  with core skills in HTML, CSS, JAVASCRIPT, Angular, react, redux, react native, C#, Asp.net,Asp.net Core, SQL, MYSQL Database, Microsoft SQL Server Database, Azure, Docker.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and mobile Application.
 - :telescope: I’m also skill in Azure devops.
 - :seedling: Exploring Data Science, Machine Learning and BlockChain Technology.
