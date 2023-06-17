@@ -23,14 +23,14 @@
 </div>
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am a Full Stack Software Developer from  Lagos Nigeria with over 4 years experiences in complete software development life Cycle (SDLC) involving requirement gathering , Analysis, Design, Development, Testing and Deploying a Enterprise and Payment Application used by various financial institutions  with core skills in HTML, CSS, JAVASCRIPT, Angular, react, redux, react native, C#, Asp.net,Asp.net Core, SQL, MYSQL Database, Microsoft SQL Server Database, Azure, Docker.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications and mobile Application.
 - :telescope: I’m also skill in Azure devops.
 - :seedling: Exploring Data Science, Machine Learning and BlockChain Technology.
 
 - :zap: In my free time, I read tech articles and learn new Technology.
- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-eedee-kinate-5ab15b1b5/)
- -  - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Email&logoColor=white)]:kinate.christian@gmail.com
+ - :mailbox:How to reach me on Linkedln: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/christian-eedee-kinate-5ab15b1b5/)
+ -  - :mailbox:Email: [![Email Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Email&logoColor=white)]:kinate.christian@gmail.com
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
