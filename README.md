@@ -17,10 +17,19 @@
   </h1>
    
 </div>
-
+<!--
+This is commented out
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+-->
+
+<p align="center">
+  <a href="https://github.com/ckinate">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Christian Kinate" /></a>
+</p>
+
+
 ---
 ### :man_technologist: About Me :
 I am a Full Stack Software Developer from  Lagos Nigeria with over 4 years experiences in complete software development life Cycle (SDLC) involving requirement gathering , Analysis, Design, Development, Testing and Deploying an Enterprise and Payment Application used by various financial institutions to manage there Business Processes  with core skills in HTML, CSS, JAVASCRIPT, Angular, react, redux, react native, C#, Asp.net,Asp.net Core, SQL, MYSQL Database, Microsoft SQL Server Database, Azure, Docker.
@@ -58,6 +67,7 @@ I am a Full Stack Software Developer from  Lagos Nigeria with over 4 years exper
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ckinate)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckinate&layout=compact&theme=vision-friendly-dark)](https://github.com/ckinate/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ckinate&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
